@@ -1,0 +1,92 @@
+.color{
+
+    background-color: #65a1e1 !important;
+    padding-bottom: 50px !important;
+
+}
+
+.margin1 {
+    margin-bottom: -34px;
+    margin-top: 13px;
+}
+
+input:hover , input:active , input:focus {
+
+    border: 2px solid #65a1e1;
+
+}
+.scroll {
+
+    height: 430px;
+    overflow-y: scroll;
+
+}
+    .input {
+
+        width: 335px;
+        height: 49px;
+        font-size: 20px;
+        font-family: cursive;
+        padding-left: 23px;
+        margin-bottom: 16px;
+        border-radius: 6px;
+    
+    }
+.fa-trash-alt:hover {
+
+   
+    color: red !important;
+
+}
+
+.fa-pencil-alt:hover{
+
+    color: yellowgreen !important;
+
+}
+.white{
+    color: white !important;
+    font-size: 22px ;
+}
+.user-avatar {
+
+    margin-top: 63px;
+
+}
+.link {
+
+    
+    list-style-type: none;
+    margin-top: 16%;
+   
+}
+.sidebarlink {
+
+    /* padding: 14px; */
+    text-decoration: none !important;
+    color: white;
+    /* margin: 53px; */
+    margin: 7px;
+    font-size: 22px;
+
+}
+
+.dashboard-page.ui-view {
+
+    background-color: #65a1e1;
+    padding-bottom: 60%;
+}
+/* .sidelist{
+
+    margin-top: 13px;
+} */
+@media ( max-width :360px){
+
+
+    .input {
+
+        width: 286px;
+        
+    
+    }
+}
